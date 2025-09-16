@@ -1,0 +1,6 @@
+**git**
+**vscode**
+.env.local
+.env.dev
+.env.pre_prod
+.env.prod
